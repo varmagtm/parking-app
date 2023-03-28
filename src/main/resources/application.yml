@@ -1,0 +1,6 @@
+com:
+  ms:
+    codingchallenge:
+      parking:
+        carParkSize: 100
+        hourlyCharge: 2
